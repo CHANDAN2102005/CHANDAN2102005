@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**CHANDAN2102005/CHANDAN2102005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Chandan Kumar
 
-Here are some ideas to get you started:
+🔐 **Cybersecurity & Cloud Enthusiast** | 🐧 Linux Explorer | ⚙️ DevOps Learner  
+🎓 BCA Student | 📜 Cybersecurity Diploma (Ducat) | 🧠 TryHackMe Learner  
+🌩️ Exploring AWS, CI/CD, and open-source security tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Projects & Skills
+
+- 🕵️‍♂️ **Phishing Simulation** – Ethical demonstration of credential harvesting
+- 🔍 **Vulnerability Assessment** – Nmap, Wireshark, and traffic analysis
+- 🐍 **Python Automation** – Keylogger scripts & system task automation
+- ☁️ **Cloud & DevOps** – AWS EC2/S3, IAM, Bash scripting, Git, basic CI/CD
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: ck870027@gmail.com  
+- 🔗 GitHub: [github.com/CHANDAN2102005](https://github.com/CHANDAN2102005)  
+
+---
+
+> "Learning never exhausts the mind – keep hacking ethically and building securely."
